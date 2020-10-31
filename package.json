@@ -1,14 +1,14 @@
 {
   "name": "react-test-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-redux": "^5.0.7",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^5.1.2",
     "react-scripts": "1.1.1",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "jsdom-quokka-plugin": "^1.0.11",
-    "redux-devtools-extension": "^2.13.2"
+    "jsdom-quokka-plugin": "^1.0.16",
+    "redux-devtools-extension": "^2.13.8"
   }
 }
